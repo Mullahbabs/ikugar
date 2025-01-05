@@ -106,8 +106,8 @@ h6 {
 
 .top-header h1 {
     font-size: 5vw;
-    font-weight: 700;
-    color: whitesmoke;
+    font-weight: bolder;
+    color: #004aad;
 }
 
 .top-header p {
@@ -119,8 +119,8 @@ h6 {
     margin: 0;
     height: 40px;
     font-size: 3vw;
-    font-weight: 400;
-    color: white;
+    font-weight: bolder;
+    color: #004aad;
 }
 
 .top-header .typed-cursor {
