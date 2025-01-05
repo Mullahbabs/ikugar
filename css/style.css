@@ -3,10 +3,10 @@
 /* ============================= */
 
 body {
-    color: #666666;
+    color: #ffffff;
     font-family: 'Open Sans', sans-serif;
     font-weight: 300;
-    background: #ffffff;
+    background: black;
 }
 
 a {
@@ -72,7 +72,7 @@ h6 {
     position: relative;
     width: 100%;
     height: 100vh;
-    color: #ffffff;
+    color: black;
 }
 
 .top-header:after {
@@ -82,7 +82,7 @@ h6 {
     height: 100%;
     left: 0;
     top: 0;
-    background: url(../img/ikback.jpg) left top repeat;
+    background: url(../img/b.png) left top repeat;
     background-size: cover;
     filter: (8px);
     -webkit-filter: (8px);
@@ -95,6 +95,7 @@ h6 {
     display: table-cell;
     vertical-align: middle;
     width: 100%;
+    color: black;
 }
 
 .top-header img {
@@ -106,7 +107,7 @@ h6 {
 .top-header h1 {
     font-size: 5vw;
     font-weight: 700;
-    color: #ffffff;
+    color: whitesmoke;
 }
 
 .top-header p {
@@ -119,7 +120,7 @@ h6 {
     height: 40px;
     font-size: 3vw;
     font-weight: 400;
-    color: #ffffff;
+    color: white;
 }
 
 .top-header .typed-cursor {
@@ -578,7 +579,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 .experience .exp-column {
     margin-top: 30px;
     padding: 25px 30px;
-    background: #e9ecef;
+    background: black;
 }
 
 .experience .exp-column::before {
@@ -613,7 +614,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 .experience .exp-date {
     margin-bottom: 5px;
-    color: #666666;
+    color: #ffffff;
     font-size: 16px;
     font-weight: 300;
     letter-spacing: 2px;
@@ -652,7 +653,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 .services {
     padding: 60px 0;
     text-align: center;
-    background: #ffffff;
+    background: black;
 }
 
 .services .section-header {
@@ -669,7 +670,7 @@ body.mobile-nav-active #mobile-nav-toggle {
     font-weight: 300;
     margin:30px 0 0;
     padding: 25px 15px 30px 15px;
-    background: #e9ecef;
+    background: black;
 }
 
 .services .single-service::before {
@@ -819,7 +820,7 @@ body.mobile-nav-active #mobile-nav-toggle {
     line-height: 15px;
     text-transform: uppercase;
     border: 1px solid #AF9483;
-    background: #ffffff;
+    background: black;
     transition: all 0.3s ease-in-out;
 }
 
