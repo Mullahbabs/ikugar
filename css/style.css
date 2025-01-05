@@ -82,7 +82,7 @@ h6 {
     height: 100%;
     left: 0;
     top: 0;
-    background: url(../img/bgb.png) left top repeat;
+    background: url(../img/bgb.png) center top repeat;
     background-size: cover;
     filter: (8px);
     -webkit-filter: (8px);
